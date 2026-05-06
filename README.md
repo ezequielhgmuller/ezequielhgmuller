@@ -1,30 +1,9 @@
-<h1 align="center">Ezequiel H. G. Muller</h1>
-<p align="center">
-  <strong>Desenvolvedor Full Stack</strong> • 
-  <strong>Graduando Ciência da Computação</strong>
-</p>
+<p>🧑🏻‍💻 Full Stack Developer with a focus on backend. </p>
+<p>🎓 Instituto Federal de Educação,Ciência e Tecnologia do Rio Grande do Sul - Campus Erechim</p>
+<p>🧑🏻‍💻 Graduating Science Computer at Universidade Regional Integrada do Alto Uruguai e das Missões - URI</p>
+<p>📫 Contact forms: 
+  - <a href="mailto:ezequielhgmuller@gmail.com" target="blank_"> ezequielhgmuller@gmail.com</a>. </p>
+  - <a href="https://www.linkedin.com/in/ezequielhgmuller" target="_blank">Linkedin</a>
+  - <a href="https://www.instagram.com/ezequielmuller__/" target="_blank">Instagram</a>
 
-## 📫 Fale Comigo
-- 🌐 Portfolio: https://ezequielmuller.com.br  
-- 💼 LinkedIn: https://www.linkedin.com/in/ezequielhgmuller/
-- 📲 Instagram: https://www.instagram.com/ezequielmuller__/
-
----
-
-## 📊 GitHub Status
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ezequielmuller&layout=compact&theme=tokyonight&hide_border=true" /> 
-</p>
-
----
-
-## 🛠️ Tecnologias
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,vuejs,postgresql,git&theme=dark" />
-</p>
-
----
-
-<p align="center">
-  <strong>Transformando ideias em aplicações reais.</strong>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,js,vue,postgres)](https://skillicons.dev)
