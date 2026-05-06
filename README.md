@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="mailto:ezequielhgmuller@gmail.com">
-    📧 Email
+    📧 ezequielhgmuller@gmail.com
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   
@@ -49,13 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ezequielhgmuller&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielhgmuller&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+ <img 
+  height="170em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ezequielhgmuller&layout=compact&theme=tokyonight"
+/>
 </p>
