@@ -39,7 +39,7 @@
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/ezequielmuller__/" target="_blank">
+  <a href="https://www.instagram.com/ezequielhgmuller/" target="_blank">
     📸 Instagram
   </a>
 </p>
